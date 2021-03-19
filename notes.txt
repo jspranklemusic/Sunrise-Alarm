@@ -1,0 +1,4 @@
+Okay, the next functionality I want to add is the ability for the timer to reset itself and add new timers in the background. 
+Also to check every few minutes to see if the location has changed. 
+
+NEED TO ADD: After you close off the alarm, it should automatically set it again. 
